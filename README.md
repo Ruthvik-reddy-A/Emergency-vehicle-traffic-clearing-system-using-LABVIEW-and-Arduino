@@ -2,7 +2,6 @@
 
 # 🚨 Emergency Vehicle Traffic Clearing System Using Arduino and NI LabVIEW
 
-This project proposes an intelligent traffic management system that facilitates **emergency vehicle clearance** by detecting the approach of such vehicles and **automatically switching traffic lights** in their favor. The system leverages **IR communication**, **Arduino microcontroller**, and **NI LabVIEW** for real-time signal processing and decision-making.
 
 ## 📌 Objective
 
