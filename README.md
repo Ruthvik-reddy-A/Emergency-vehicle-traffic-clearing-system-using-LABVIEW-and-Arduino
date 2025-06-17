@@ -1,9 +1,9 @@
 <!--![image](https://github.com/Ruthvik-reddy-A/EMRGENCY-VEHICLE-TRAFFIC-CLEARING-SYSTEM-USING-LABVIEW-AND-ADUINO/assets/73007037/a18c46c1-55c6-4cab-9b8d-145b31cdf823)-->
 
-# 🚨 Emergency Vehicle Traffic Clearing System Using Arduino and NI LabVIEW
+ 🚨 Emergency Vehicle Traffic Clearing System Using Arduino and NI LabVIEW
 
 
-# 📌 Objective
+## 📌 Objective
 
 To design and implement a prototype that:
 - Detects emergency vehicles using IR transmitters.
