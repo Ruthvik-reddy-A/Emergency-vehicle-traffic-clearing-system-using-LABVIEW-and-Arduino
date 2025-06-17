@@ -50,36 +50,6 @@ This prototype provides a **cost-effective and practical solution** to reduce de
 
 According to studies, **30% of ambulance-related deaths** are caused due to traffic delays. This system aims to **significantly reduce response time**, potentially saving many lives.
 
-## 🔩 Bill of Materials
 
-| S.No | Component                 | Quantity | Cost (INR) |
-|------|---------------------------|----------|------------|
-| 1    | Breadboard                | 2        | 200.00     |
-| 2    | Jumper wires              | 1 pack   | 90.00      |
-| 3    | Arduino Uno + USB Cable  | 1        | 900.00     |
-| 4    | Resistor (4.7kΩ)          | 3        | 6.00       |
-| 5    | LEDs (Red - 3, Green - 3) | 6        | 6.00       |
-| 6    | IR Receiver (PT333-3B)    | 3        | 30.00      |
-| 7    | IR Emitter (PT333-3C)     | 1        | 10.00      |
-| 8    | 9V Battery                | 1        | 50.00      |
-| 9    | Battery Clip             | 1        | 8.00       |
-|      | **Total**                |          | **1,300.00** |
 
-## 👨‍💻 Team Contributions
-
-- **A. Ruthvik Reddy** – Arduino Development, Report, Presentation
-- **B. K. V. Surya** – LabVIEW Development, Arduino Integration
-- **P. V. Pavan Kumar Varma** – LabVIEW, Report Documentation
-
-## 🙌 Reflections
-
-> _"It’s not easy to find good team members, but I was lucky to work with B.K.V. Surya."_  
-> _"I got to work with good teammates and learned LINX LabVIEW-Arduino interfacing."_  
-> — Pavan Varma
-
-## 📷 Demo & Media
-
-*Add images or video links showing the prototype in action*
-
-## 📁 File Structure
 
