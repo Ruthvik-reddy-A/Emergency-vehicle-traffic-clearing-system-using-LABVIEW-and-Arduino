@@ -3,7 +3,7 @@
 # 🚨 Emergency Vehicle Traffic Clearing System Using Arduino and NI LabVIEW
 
 
-## 📌 Objective
+# 📌 Objective
 
 To design and implement a prototype that:
 - Detects emergency vehicles using IR transmitters.
